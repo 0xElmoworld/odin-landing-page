@@ -85,3 +85,25 @@ button{
     font-size: 18px;
 }
 
+.card h2{
+    text-align: center;
+    margin-top:30px;
+}
+
+.rounded-box{
+    border-radius: 8px;
+    border:3px solid #3882F6;
+    height: 150px;
+    width:150px;
+}
+
+.card-container{
+    display:flex;
+    justify-content:center;
+    gap:50px;
+
+}
+
+.card-content .text{
+    max-width:150px;
+}
