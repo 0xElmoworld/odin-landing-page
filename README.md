@@ -11,7 +11,7 @@ This is a landing page project from [The Odin Project](https://www.theodinprojec
 
 ## Live Preview
 
-[Click here to view the live site](https://0xElmoworld/odin-landing-page/)
+[Click here to view the live site](https://0xElmoworld.github.io/odin-landing-page/)
 
 ## Files
 
