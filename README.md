@@ -17,3 +17,7 @@ This is a landing page project from [The Odin Project](https://www.theodinprojec
 
 - `index.html` — the main HTML file
 - `style.css` — the CSS styling file
+
+### Image Credit
+
+Photo by [Matt Stephenson](https://unsplash.com/@matthewryanstephenson) on Unsplash
