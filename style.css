@@ -134,7 +134,7 @@ button{
    margin-bottom:15px;
 }
 
-.quote,.card{
+.quote,.card,.call-action{
     height:400px;
 }
 
@@ -144,4 +144,56 @@ button{
     font-size: 24px;
     color:#1F2937;
     font-weight: 700;
+}
+
+/*call-action styles*/
+.call-action{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-action .box{
+    padding:10px;
+    border:3px solid #3882F6;
+    background-color: #3882F6;
+    border-radius: 8px;
+    width:900px;
+    height:180px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box button{
+    color: white;
+    border:3px solid white;
+    border-radius: 8px; 
+    font-size: 18px;
+    padding:10px 20px;
+    width:113px;
+    height:47px;
+    flex-shrink: 0;
+}
+
+.box h2{
+    margin:0;
+    color:white;
+}
+.box p{
+    margin:0;
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+footer{
+    background-color: #1F2937;
+    height:80px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+footer p{
+    margin:0px;
+    color:white;
 }
